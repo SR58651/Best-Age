@@ -1,0 +1,47 @@
+<DOCTYPE html>
+<head>
+<title> Best Age </title>
+
+	 
+<center>
+    <img src="img/image.jpg" width="1360" height="450" ALT="HTML">
+	<style>
+
+ body {
+	 margin: 0;
+	 
+	 }
+	 #menu ul{
+	     margin: 0;
+		 background-color: #1a53ff		 ;
+		 list-style: none;
+	 }
+	 
+	 #menu ul li {
+	 display: inline;
+	 }
+	 
+	 #menu ul li a{
+	 padding:10px 10px;
+	 display:inline-block;
+	 
+	 color: white;
+	 text-decoration:none;
+	 }
+	  
+	#menu ul li a: hover{
+	        color:#ffffff;
+	  }
+
+</style>
+</head>
+<body>
+	 <div id= "menu" >
+	 <center>
+	 <ul> 
+	 <li> <a href = "#">Inicio</a></li>
+	 <li> <a href = "#">Converse Conosco</a></li>
+	<li> <a href = "#">Videos Interativos</a></li>
+	 </center>
+	 </ul>
+</center>

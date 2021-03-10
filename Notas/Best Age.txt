@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<head>
+<title> Best Age </title>	 
+<center>
+      <img src="img/image.jpg" width="1360" height="465" ALT="HTML">
+	<style>
+ body {
+	 margin: 0;
+	 
+	 }
+	 #menu ul{
+	     margin: 0;
+		 background-color: #1a53ff		 ;
+		 list-style: none;
+	 }
+	 
+	 #menu ul li {
+	 display: inline;
+	 }
+	 
+	 #menu ul li a{
+	 padding:10px 10px;
+	 display:inline-block;
+	 
+	 color: white;
+	 text-decoration:none;
+	 }
+	  
+	#menu ul li a: hover{
+	        color:#ffffff;
+	  }
+
+</style>
+</head>
+<body>
+	 <div id= "menu" >
+	 <center>
+	 <ul> 
+	 <li> <a href = "file:///C:/Users/Sebasti%C3%A3o%20Rone/Desktop/Best%20Age/Best%20Age.html">Inicio</a></li>
+	 <li> <a href = "file:///C:/Users/Sebasti%C3%A3o%20Rone/Desktop/Best%20Age/Contato.html">Quem somos nós?</a></li>
+	<li> <a href = "file:///C:/Users/Sebasti%C3%A3o%20Rone/Desktop/Best%20Age/Videos%20Interativos.html">Videos Interativos</a></li>
+	 </center>
+	 </ul>
+</center>
+<div id="rodape"><center>
+<center><p> Desenvolvido por:  </p> </center>    
+<p> Desenvolvido por: <img src="img/IFRN Logo.png"/  width="150" height="50"> </p>
+</div></center>
+<center> <img src= "img/ana.png" width="#" height="#"> </center>
